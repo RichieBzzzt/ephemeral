@@ -1,0 +1,3 @@
+﻿CREATE ROLE [AdHocUser]
+    AUTHORIZATION [dbo];
+
